@@ -84,15 +84,5 @@
 
 ---
 
-## 🧩 Python Topics
-
-| File | Description |
-|-------|--------------|
-| [`functional_programming.md`](./functional_programming.md) | Functional Programming concepts and tools. |
-| [`data_and_types.md`](./data_and_types.md) | Data structures and type management. |
-| [`oop_python.md`](./oop_python.md) | Object-Oriented Programming in Python. |
-
----
-
 👨‍💻 **Author:** Josep  
 📚 **Purpose:** A personal knowledge base and reference for Python developers.
